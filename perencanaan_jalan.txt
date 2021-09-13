@@ -2,11 +2,14 @@ Perbaikan jalan kelurahan
 
 - perhitungan pembiayaan
 berapa total pembiayaan semua
+mengundang ahli perhitungan biaya
 
 - cari vendor untuk pengerjaan
 jasa vendor mana yang akan dipilih
+mengundang vendor-vendor
 
 - cari waktu pengerjaan
 kapan mulai dan selesai waktu pengerjaan
+mengundah manajer proyek
 
 # file ini boleh diubah siapapun
