@@ -8,3 +8,5 @@ jasa vendor mana yang akan dipilih
 
 - cari waktu pengerjaan
 kapan mulai dan selesai waktu pengerjaan
+
+# file ini boleh diubah siapapun
