@@ -2,3 +2,4 @@ Perencanaan persiapan cpns
 - penentuan formasi yang paling tinggi peluang diterima
 - mencari dan mengumpulkan website untuk belajar soal skd
 - melakukan tryout 2 kali setiap hari
+- evaluasi nilai tryout
