@@ -1,5 +1,0 @@
-Perencanaan persiapan cpns
-- penentuan formasi yang paling tinggi peluang diterima
-- mencari dan mengumpulkan website untuk belajar soal skd
-- evaluasi nilai tryout
-- mencoba tryout menggunakan buku cpns
